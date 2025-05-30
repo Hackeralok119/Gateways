@@ -36,8 +36,14 @@ cd Gateways
 python Gatewayfreecc.py
 ## 📲 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40hackeralok2.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackeralok2.0/)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Specialnewtools)
+## Contact the Owner
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackeralok2.0?igsh=MXh2aDNvbDUweHQ4YQ==)
+
+Join our Telegram channel for more tools and updates:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Specialnewtools)
+
 ⚠️ Disclaimer
 This tool is built for educational and testing purposes only.
 The creator is not responsible for any misuse.
